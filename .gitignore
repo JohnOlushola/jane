@@ -4,3 +4,9 @@ venv/
 .env
 
 .idea
+
+*.chromadb
+
+*.db
+*.db-shm
+*.db-wal
